@@ -1,4 +1,5 @@
 {
+  "packageManager": "pnpm@10.11.0",
   "name": "hono-api-node",
   "type": "module",
   "scripts": {
